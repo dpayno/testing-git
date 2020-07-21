@@ -1,1 +1,1 @@
-Archivo creado desde la propia consola de git, emulando el cambio de algún compañero.
+Este es el archivo que había creado desde github, pero ahora lo he modificado desde el local
